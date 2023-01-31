@@ -6,7 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.less']
 })
 export class AppComponent {
-  title = 'CEIDG';
+  title = 'Centralna Ewidencja i Informacja o Działalności Gospodarczej';
+
 
   getdate(): Date{
     return new Date();
